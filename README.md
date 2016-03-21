@@ -4,4 +4,4 @@ This repository contains 4 R-codes and the corresponding 4 plots, as assigned in
 
 https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip 
 
-and assumed that it has been saved into the current working directory.
+and assumes that it has been saved into the current working directory.
